@@ -1,0 +1,8 @@
+Package:secudaim-lockard-ai
+Version:1.0.0
+Section:devel
+Priority:optional
+Architecture:amd64
+Depends:python3
+Maintainer:Joonyong Jeon <draidev@secudaim.com>
+Description:Lockard AI daemon and library Package

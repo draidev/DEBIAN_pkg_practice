@@ -1,0 +1,4 @@
+/lockard_ai/conf/lai_analyzer.json
+/lockard_ai/conf/lai_collector.json
+/lockard_ai/conf/lai_disk.json
+/lockard_ai/conf/lai_disk_crontab.txt 
